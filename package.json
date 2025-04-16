@@ -1,5 +1,19 @@
 {
+  "name": "telegram-bot-server",
+  "version": "1.0.0",
+  "description": "Aryan ka OP Telegram bot 🚀",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "build": "echo 'No build step needed for pure Node.js, chill bro 😎'"
+  },
   "dependencies": {
     "node-telegram-bot-api": "^0.66.0"
-  }
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "author": "Aryan The Boss 😈",
+  "license": "MIT"
 }
