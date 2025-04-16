@@ -1,0 +1,99 @@
+{
+  "activeOvers": {},
+  "overplays": {},
+  "overRunResult": {},
+  "overUnderStats": {},
+  "matchplaying": {
+    "activeMatches": {
+      "1": {
+        "team1": "LSG",
+        "team2": "CSK",
+        "active": false,
+        "createdAt": "2025-04-14T15:24:00.965Z"
+      },
+      "2": {
+        "team1": "PBKS",
+        "team2": "KKR",
+        "active": false,
+        "createdAt": "2025-04-14T15:56:10.182Z"
+      },
+      "3": {
+        "team1": "DC",
+        "team2": "RR",
+        "active": true,
+        "createdAt": "2025-04-15T14:11:31.461Z"
+      }
+    },
+    "matchplays": {
+      "1": {
+        "1680571148": [
+          {
+            "teamplay": "team2",
+            "amount": 20,
+            "odds": 1.9,
+            "timestamp": "2025-04-14T16:55:50.450Z"
+          }
+        ]
+      },
+      "2": {
+        "910938691": [
+          {
+            "teamplay": "team1",
+            "amount": 10,
+            "odds": 1.9,
+            "timestamp": "2025-04-15T05:09:50.303Z"
+          }
+        ],
+        "1680571148": [
+          {
+            "teamplay": "team1",
+            "amount": 20,
+            "odds": 2.05,
+            "timestamp": "2025-04-15T13:57:44.619Z"
+          }x
+        ],
+        "5363228907": [
+          {
+            "teamplay": "team2",
+            "amount": 10,
+            "odds": 1.95,
+            "timestamp": "2025-04-15T05:44:17.880Z"
+          }
+        ],
+        "7205034023": [
+          {
+            "teamplay": "team2",
+            "amount": 20,
+            "odds": 1.9,
+            "timestamp": "2025-04-15T08:07:09.780Z"
+          }
+        ]
+      },
+      "3": {}
+    },
+    "matchResults": {
+      "1": "CSK"
+    },
+    "matchStats": {
+      "1": {
+        "team1Odds": 1.95,
+        "team2Odds": 1.85,
+        "team1Amount": 0,
+        "team2Amount": 20
+      },
+      "2": {
+        "team1Odds": 1.9,
+        "team2Odds": 1.9,
+        "team1Amount": 30,
+        "team2Amount": 30
+      },
+      "3": {
+        "team1Odds": 1.9,
+        "team2Odds": 1.9,
+        "team1Amount": 0,
+        "team2Amount": 0
+      }
+    }
+  },
+  "referrals": {}
+}
